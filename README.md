@@ -1,2 +1,2 @@
-# LHTestSite
+# LH Test Site
 GitHub Testing Page
